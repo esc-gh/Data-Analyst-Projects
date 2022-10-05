@@ -16,4 +16,4 @@ One day each week was spent working on a project that explored its main theme of
   
   5. Use of SQL as a Data Analysis tool for cleaning and gaining data insights
   
-  6. Tableau Public presentation (external link)
+  6. Tableau Public presentation ([external link](https://public.tableau.com/app/profile/erysca/viz/CaliforniaWastewaterViolations/CaliforniaWastewaterViolations))
